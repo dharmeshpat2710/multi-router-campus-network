@@ -41,13 +41,13 @@ The network is designed using Cisco Packet Tracer and demonstrates:
 
 # 🌐 Network Topology
 
-![Network Topology](images/topology.png)
+![Network Topology](Images/topology.png)
 
 ---
 
 # ⚙️ OSPF Configuration
 
-![OSPF Configuration](images/ospf-configuration.png)
+![OSPF Configuration](Images/ospf-configuration.png)
 
 ---
 
@@ -55,7 +55,7 @@ The network is designed using Cisco Packet Tracer and demonstrates:
 
 Successful communication between different departments.
 
-![Ping Test](images/ping-test.png)
+![Ping Test](Images/ping-test.png)
 
 ---
 
