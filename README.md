@@ -1,24 +1,24 @@
 # 🌐 Multi Router Campus Network Using OSPF
 
-## 📌 Project Overview
-
-This project demonstrates the design and implementation of a Multi Router Campus Network using Cisco Packet Tracer. The network connects multiple departments through OSPF (Open Shortest Path First) routing to ensure efficient communication between all networks.
+A Cisco Packet Tracer project demonstrating a multi-router campus network using the **OSPF (Open Shortest Path First)** routing protocol.
 
 ---
 
-## 🎯 Objectives
+# 📖 Project Overview
 
-- Design a campus network using multiple routers.
-- Configure OSPF routing protocol.
-- Enable communication between different departments.
-- Practice IP addressing and subnetting.
-- Simulate a real-world enterprise network.
+This project simulates a real-world campus network where multiple departments communicate through OSPF dynamic routing.
+
+The network is designed using Cisco Packet Tracer and demonstrates:
+
+- Multiple routers
+- Department-wise LANs
+- Dynamic Routing using OSPF
+- End-to-End Connectivity
+- IP Addressing & Subnetting
 
 ---
 
-## 🏫 Network Structure
-
-The network includes:
+# 🏫 Departments
 
 - 📚 Library
 - 💻 Computer Lab 1
@@ -26,49 +26,72 @@ The network includes:
 - 🏢 Administration Department
 - ⚙️ Electronics Department
 
-Each department is connected using switches and routers.
-
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Cisco Packet Tracer
 - OSPF Routing Protocol
 - IPv4 Addressing
 - Router Configuration
 - Switch Configuration
-- Static & Dynamic Routing Concepts
+- Network Design
 
 ---
 
-## ✨ Features
+# 🌐 Network Topology
+
+![Network Topology](images/topology.png)
+
+---
+
+# ⚙️ OSPF Configuration
+
+![OSPF Configuration](images/ospf-configuration.png)
+
+---
+
+# 📡 Ping Test
+
+Successful communication between different departments.
+
+![Ping Test](images/ping-test.png)
+
+---
+
+# 📂 Project Files
+
+| File | Description |
+|------|-------------|
+| Campus Network.pkt | Cisco Packet Tracer Project |
+| Project_Report.pdf | Complete Project Report |
+| Presentation.pdf | Project Presentation |
+
+---
+
+# ✨ Features
 
 - Multi Router Topology
-- OSPF Dynamic Routing
-- Department-wise Network Segmentation
-- End-to-End Connectivity
-- Easy to Expand
+- Dynamic OSPF Routing
+- Department-wise Network Design
+- Router Configuration
+- Network Connectivity Testing
+- Real-world Campus Simulation
 
 ---
 
-## 📂 Project Files
+# 🚀 Future Improvements
 
-- `Campus_Network.pkt` (Cisco Packet Tracer Project)
-
----
-
-## 🚀 Future Improvements
-
-- VLAN Configuration
+- VLAN Implementation
 - DHCP Server
 - DNS Server
-- Firewall Implementation
-- Network Security
+- Firewall Configuration
 - IPv6 Support
+- Network Security Enhancements
 
 ---
 
-## 👨‍💻 Developed By
+# 👨‍💻 Developed By
 
 **Dharmesh Patel**
 
@@ -78,4 +101,4 @@ C. K. Pithawala College of Engineering & Technology
 
 ---
 
-⭐ If you like this project, don't forget to star the repository.
+⭐ If you found this project helpful, please consider giving it a star.
